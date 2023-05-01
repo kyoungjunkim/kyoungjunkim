@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=d0fc5c&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=d0fc5c&height=160&section=footer"/>
