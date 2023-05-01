@@ -1,4 +1,4 @@
-
+# 😄Hello!
 
 <!--
 **kyoungjunkim/kyoungjunkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=d0fc5c&height=300&section=header&text=kyoungjunKim&fontSize=90"/>
+
 
  <div align=center>
  <h3 align="center"> 🌱Tech Stack🌱 </h3>
