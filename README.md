@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=d0fc5c&height=160&section=footer"/>
+
