@@ -1,4 +1,4 @@
-# 😄Hello!
+# 😄Hello! i'm KyoungJun Kim
 
 <!--
 **kyoungjunkim/kyoungjunkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
